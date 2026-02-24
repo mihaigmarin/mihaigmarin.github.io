@@ -8,7 +8,7 @@ enableEmoji: true
 
 params:
     homeInfoParams:
-        Title: Mihai Gabriel Marin
+        Title: Mihai-Gabriel Marin
     socialIcons:
         - name: "email"
           url: "mailto:mihaigmarin@gmail.com"
