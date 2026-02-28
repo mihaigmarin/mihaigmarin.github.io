@@ -7,6 +7,7 @@ publishDir: "docs"
 enableEmoji: true
 
 params:
+    author: "Mihai-Gabriel Marin"
     homeInfoParams:
         Title: "Mihai-Gabriel Marin"
     socialIcons:
